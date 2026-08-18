@@ -39,12 +39,3 @@ JSON
   "prediction": ["joy", "surprise"],
   "confidence": [0.98, 0.85]
 }
-
-## CI/CD
-
-This project uses Azure Pipelines for automated:
-- Testing
-- Docker image builds
-- Deployment workflows
-
-Pipeline configuration is maintained in a private Azure DevOps repository and cannot be shared publicly.
